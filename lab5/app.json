@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Lab5 Expo Router Shop",
+    "slug": "lab5-expo-router-shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "lab5shop",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1D4ED8"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
